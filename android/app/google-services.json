@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170923784573",
+    "project_id": "muktidham-aeff9",
+    "storage_bucket": "muktidham-aeff9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170923784573:android:a6f39adf4e5d69ffcd3414",
+        "android_client_info": {
+          "package_name": "com.example.muktidham"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170923784573-2pjjugacg5b03pjca21ama9lsq0vqdqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI2YVLuoCsOzrIhKxcowXmF807CCDcmRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170923784573-2pjjugacg5b03pjca21ama9lsq0vqdqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
